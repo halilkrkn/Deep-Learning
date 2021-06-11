@@ -1,2 +1,1 @@
-# Deep Learning
- Derin Öğrenme
+# Convolutional Neural Networks - Evrişimli Sinir Ağları - CNN
