@@ -1,1 +1,1 @@
-# Convolutional Neural Networks - Evrişimli Sinir Ağları - CNN
+# ImageClassification with CNN - CNN ile Görüntü Sınıflandırma 
